@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cappoemu/!svn/ver/56/trunk/cappoemu/src/Requests/Handshake
+END
+VersionCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Handshake/VersionCheck.java
+END
+UniqueID.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Handshake/UniqueID.java
+END
+Disconnect.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Handshake/Disconnect.java
+END
+SSOTicket.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cappoemu/!svn/ver/51/trunk/cappoemu/src/Requests/Handshake/SSOTicket.java
+END
+InfoRetrieve.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cappoemu/!svn/ver/52/trunk/cappoemu/src/Requests/Handshake/InfoRetrieve.java
+END
+GetSessionParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Handshake/GetSessionParameters.java
+END
+GenerateSecretKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cappoemu/!svn/ver/56/trunk/cappoemu/src/Requests/Handshake/GenerateSecretKey.java
+END
+Pong.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cappoemu/!svn/ver/41/trunk/cappoemu/src/Requests/Handshake/Pong.java
+END
+InitCrypto.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cappoemu/!svn/ver/56/trunk/cappoemu/src/Requests/Handshake/InitCrypto.java
+END

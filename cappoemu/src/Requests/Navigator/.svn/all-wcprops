@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Navigator
+END
+CanCreateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Navigator/CanCreateEvent.java
+END
+PublicSpaceCastLibs.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Navigator/PublicSpaceCastLibs.java
+END
+DeleteFavouriteRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Navigator/DeleteFavouriteRoom.java
+END
+GetUserFlatCats.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Navigator/GetUserFlatCats.java
+END
+GetOfficialRooms.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Navigator/GetOfficialRooms.java
+END
+AddFavouriteRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Navigator/AddFavouriteRoom.java
+END
+UpdateNavigatorSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Navigator/UpdateNavigatorSettings.java
+END

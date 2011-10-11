@@ -1,0 +1,935 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc
+END
+ExceptionInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ExceptionInterceptor.class
+END
+EscapeTokenizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/EscapeTokenizer.class
+END
+ParameterBindings.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ParameterBindings.class
+END
+NamedPipeSocketFactory$RandomAccessFileOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/NamedPipeSocketFactory$RandomAccessFileOutputStream.class
+END
+Blob.class
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/Blob.class
+END
+ServerPreparedStatement$BindValue.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ServerPreparedStatement$BindValue.class
+END
+StringUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/StringUtils.class
+END
+ExportControlled.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ExportControlled.class
+END
+DatabaseMetaData$TypeDescriptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/DatabaseMetaData$TypeDescriptor.class
+END
+BlobFromLocator$LocatorInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/BlobFromLocator$LocatorInputStream.class
+END
+ConnectionImpl$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionImpl$1.class
+END
+RandomBalanceStrategy.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/RandomBalanceStrategy.class
+END
+Statement.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/Statement.class
+END
+NotImplemented.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/NotImplemented.class
+END
+UpdatableResultSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/UpdatableResultSet.class
+END
+BalanceStrategy.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/BalanceStrategy.class
+END
+ConnectionImpl$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionImpl$5.class
+END
+PreparedStatement$ParseInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/PreparedStatement$ParseInfo.class
+END
+MysqlSavepoint.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/MysqlSavepoint.class
+END
+ConnectionProperties.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionProperties.class
+END
+PreparedStatement.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/PreparedStatement.class
+END
+IterateBlock.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/IterateBlock.class
+END
+ConnectionImpl$9.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionImpl$9.class
+END
+MysqlParameterMetadata.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/MysqlParameterMetadata.class
+END
+JDBC4Connection.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/JDBC4Connection.class
+END
+DatabaseMetaData$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/DatabaseMetaData$2.class
+END
+MiniAdmin.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/MiniAdmin.class
+END
+DatabaseMetaData$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/DatabaseMetaData$6.class
+END
+Clob.class
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/Clob.class
+END
+PreparedStatement$EmulatedPreparedStatementBindings.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/PreparedStatement$EmulatedPreparedStatementBindings.class
+END
+JDBC4MysqlSQLXML$SimpleSaxToReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/JDBC4MysqlSQLXML$SimpleSaxToReader.class
+END
+DocsConnectionPropsHelper.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/DocsConnectionPropsHelper.class
+END
+PreparedStatement$EndPoint.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/PreparedStatement$EndPoint.class
+END
+MysqlIO.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/MysqlIO.class
+END
+ReplicationConnection.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ReplicationConnection.class
+END
+EscapeProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/EscapeProcessor.class
+END
+StreamingNotifiable.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/StreamingNotifiable.class
+END
+CallableStatement.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/CallableStatement.class
+END
+OutputStreamWatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/OutputStreamWatcher.class
+END
+JDBC4ClientInfoProviderSP.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/JDBC4ClientInfoProviderSP.class
+END
+NonRegisteringReplicationDriver.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/NonRegisteringReplicationDriver.class
+END
+ConnectionImpl$ExceptionInterceptorChain.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionImpl$ExceptionInterceptorChain.class
+END
+PreparedStatement$BatchVisitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/PreparedStatement$BatchVisitor.class
+END
+Driver.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/Driver.class
+END
+ByteArrayRow.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ByteArrayRow.class
+END
+PreparedStatement$AppendingBatchVisitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/PreparedStatement$AppendingBatchVisitor.class
+END
+ConnectionImpl$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionImpl$2.class
+END
+ServerPreparedStatement.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ServerPreparedStatement.class
+END
+BlobFromLocator.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/BlobFromLocator.class
+END
+TimeUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/TimeUtil.class
+END
+ExportControlled$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ExportControlled$1.class
+END
+JDBC4CommentClientInfoProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/JDBC4CommentClientInfoProvider.class
+END
+ConnectionImpl$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionImpl$6.class
+END
+AssertionFailedException.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/AssertionFailedException.class
+END
+ResultSetMetaData.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ResultSetMetaData.class
+END
+JDBC4ServerPreparedStatement.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/JDBC4ServerPreparedStatement.class
+END
+ConnectionPropertiesImpl$StringConnectionProperty.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionPropertiesImpl$StringConnectionProperty.class
+END
+DatabaseMetaData$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/DatabaseMetaData$3.class
+END
+JDBC4PreparedStatement.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/JDBC4PreparedStatement.class
+END
+Field.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/Field.class
+END
+Util$RandStructcture.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/Util$RandStructcture.class
+END
+ConnectionPropertiesTransform.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionPropertiesTransform.class
+END
+WatchableWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/WatchableWriter.class
+END
+DatabaseMetaData$7.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/DatabaseMetaData$7.class
+END
+ConnectionPropertiesImpl$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionPropertiesImpl$1.class
+END
+LocalizedErrorMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/LocalizedErrorMessages.properties
+END
+DatabaseMetaData$LocalAndReferencedColumns.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/DatabaseMetaData$LocalAndReferencedColumns.class
+END
+Security.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/Security.class
+END
+Buffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/Buffer.class
+END
+JDBC4DatabaseMetaData.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/JDBC4DatabaseMetaData.class
+END
+JDBC4ClientInfoProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/JDBC4ClientInfoProvider.class
+END
+LoadBalancingConnectionProxy$ConnectionErrorFiringInvocationHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/LoadBalancingConnectionProxy$ConnectionErrorFiringInvocationHandler.class
+END
+SingleByteCharsetConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/SingleByteCharsetConverter.class
+END
+ConnectionPropertiesImpl$ConnectionProperty.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionPropertiesImpl$ConnectionProperty.class
+END
+ConnectionPropertiesImpl$MemorySizeConnectionProperty.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionPropertiesImpl$MemorySizeConnectionProperty.class
+END
+DatabaseMetaDataUsingInfoSchema.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/DatabaseMetaDataUsingInfoSchema.class
+END
+Messages.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/Messages.class
+END
+JDBC4ResultSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/JDBC4ResultSet.class
+END
+JDBC4DatabaseMetaDataUsingInfoSchema.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/JDBC4DatabaseMetaDataUsingInfoSchema.class
+END
+MysqlDataTruncation.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/MysqlDataTruncation.class
+END
+DatabaseMetaData$IteratorWithCleanup.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/DatabaseMetaData$IteratorWithCleanup.class
+END
+SQLError.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/SQLError.class
+END
+RowDataCursor.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/RowDataCursor.class
+END
+VersionedStringProperty.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/VersionedStringProperty.class
+END
+BestResponseTimeBalanceStrategy.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/BestResponseTimeBalanceStrategy.class
+END
+Connection.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/Connection.class
+END
+JDBC4CallableStatement.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/JDBC4CallableStatement.class
+END
+CharsetMapping.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/CharsetMapping.class
+END
+ConnectionPropertiesImpl$LongConnectionProperty.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionPropertiesImpl$LongConnectionProperty.class
+END
+PingTarget.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/PingTarget.class
+END
+RowData.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/RowData.class
+END
+ConnectionImpl$10.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionImpl$10.class
+END
+NamedPipeSocketFactory$NamedPipeSocket.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/NamedPipeSocketFactory$NamedPipeSocket.class
+END
+CallableStatement$CallableStatementParamInfoJDBC3.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/CallableStatement$CallableStatementParamInfoJDBC3.class
+END
+DatabaseMetaData.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/DatabaseMetaData.class
+END
+WatchableOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/WatchableOutputStream.class
+END
+ConnectionImpl$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionImpl$3.class
+END
+ConnectionImpl$CompoundCacheKey.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionImpl$CompoundCacheKey.class
+END
+ResultSetInternalMethods.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ResultSetInternalMethods.class
+END
+ConnectionImpl$7.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionImpl$7.class
+END
+RowDataStatic.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/RowDataStatic.class
+END
+LicenseConfiguration.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/LicenseConfiguration.class
+END
+RowDataDynamic$OperationNotSupportedException.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/RowDataDynamic$OperationNotSupportedException.class
+END
+DatabaseMetaData$ResultSetIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/DatabaseMetaData$ResultSetIterator.class
+END
+DatabaseMetaData$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/DatabaseMetaData$4.class
+END
+PacketTooBigException.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/PacketTooBigException.class
+END
+DatabaseMetaData$8.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/DatabaseMetaData$8.class
+END
+Util.class
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/Util.class
+END
+JDBC4UpdatableResultSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/JDBC4UpdatableResultSet.class
+END
+ConnectionPropertiesImpl$BooleanConnectionProperty.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionPropertiesImpl$BooleanConnectionProperty.class
+END
+OperationNotSupportedException.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/OperationNotSupportedException.class
+END
+PreparedStatement$BatchParams.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/PreparedStatement$BatchParams.class
+END
+MysqlDefs.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/MysqlDefs.class
+END
+Charsets.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/Charsets.properties
+END
+JDBC4NClob.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/JDBC4NClob.class
+END
+CallableStatement$CallableStatementParamInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/CallableStatement$CallableStatementParamInfo.class
+END
+NamedPipeSocketFactory$RandomAccessFileInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/NamedPipeSocketFactory$RandomAccessFileInputStream.class
+END
+SocketFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/SocketFactory.class
+END
+ConnectionLifecycleInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionLifecycleInterceptor.class
+END
+NonRegisteringDriver.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/NonRegisteringDriver.class
+END
+StandardSocketFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/StandardSocketFactory.class
+END
+LoadBalancingConnectionProxy.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/LoadBalancingConnectionProxy.class
+END
+ConnectionPropertiesImpl$IntegerConnectionProperty.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionPropertiesImpl$IntegerConnectionProperty.class
+END
+ConnectionImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionImpl.class
+END
+ConnectionFeatureNotAvailableException.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionFeatureNotAvailableException.class
+END
+DatabaseMetaData$SingleStringIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/DatabaseMetaData$SingleStringIterator.class
+END
+NotUpdatable.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/NotUpdatable.class
+END
+ServerPreparedStatement$BatchedBindValues.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ServerPreparedStatement$BatchedBindValues.class
+END
+MysqlErrorNumbers.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/MysqlErrorNumbers.class
+END
+CompressedInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/CompressedInputStream.class
+END
+ConnectionImpl$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionImpl$4.class
+END
+StatementImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/StatementImpl.class
+END
+ConnectionPropertiesImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionPropertiesImpl.class
+END
+ConnectionImpl$8.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ConnectionImpl$8.class
+END
+JDBC4MysqlSQLXML.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/JDBC4MysqlSQLXML.class
+END
+CachedResultSetMetaData.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/CachedResultSetMetaData.class
+END
+CommunicationsException.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/CommunicationsException.class
+END
+StatementInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/StatementInterceptor.class
+END
+DatabaseMetaData$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/DatabaseMetaData$1.class
+END
+BufferRow.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/BufferRow.class
+END
+RowDataDynamic.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/RowDataDynamic.class
+END
+DatabaseMetaData$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/DatabaseMetaData$5.class
+END
+StatementImpl$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/StatementImpl$1.class
+END
+DatabaseMetaData$9.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/DatabaseMetaData$9.class
+END
+Extension.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/Extension.class
+END
+CallableStatement$CallableStatementParam.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/CallableStatement$CallableStatementParam.class
+END
+ResultSetImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ResultSetImpl.class
+END
+JDBC4PreparedStatementHelper.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/JDBC4PreparedStatementHelper.class
+END
+WriterWatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/WriterWatcher.class
+END
+EscapeProcessorResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/EscapeProcessorResult.class
+END
+Constants.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/Constants.class
+END
+NamedPipeSocketFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/NamedPipeSocketFactory.class
+END
+StatementImpl$CancelTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/StatementImpl$CancelTask.class
+END
+ReplicationDriver.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ReplicationDriver.class
+END
+ResultSetRow.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/ResultSetRow.class
+END

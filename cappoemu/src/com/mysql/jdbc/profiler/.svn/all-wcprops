@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/profiler
+END
+LoggingProfilerEventHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/profiler/LoggingProfilerEventHandler.class
+END
+ProfilerEventHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/profiler/ProfilerEventHandler.class
+END
+ProfilerEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/profiler/ProfilerEvent.class
+END
+ProfilerEventHandlerFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/profiler/ProfilerEventHandlerFactory.class
+END

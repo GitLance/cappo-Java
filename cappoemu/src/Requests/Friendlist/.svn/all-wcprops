@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Friendlist
+END
+DeclineBuddy.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cappoemu/!svn/ver/42/trunk/cappoemu/src/Requests/Friendlist/DeclineBuddy.java
+END
+FollowFriend.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Friendlist/FollowFriend.java
+END
+HabboSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Friendlist/HabboSearch.java
+END
+FindNewFriends.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cappoemu/!svn/ver/42/trunk/cappoemu/src/Requests/Friendlist/FindNewFriends.java
+END
+AcceptBuddy.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Friendlist/AcceptBuddy.java
+END
+SendRoomInvite.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Friendlist/SendRoomInvite.java
+END
+SendMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Friendlist/SendMsg.java
+END
+RequestBuddy.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Friendlist/RequestBuddy.java
+END
+FriendListUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Friendlist/FriendListUpdate.java
+END
+GetBuddyRequests.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Friendlist/GetBuddyRequests.java
+END
+MessengerInit.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Friendlist/MessengerInit.java
+END
+RemoveBuddy.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cappoemu/!svn/ver/42/trunk/cappoemu/src/Requests/Friendlist/RemoveBuddy.java
+END

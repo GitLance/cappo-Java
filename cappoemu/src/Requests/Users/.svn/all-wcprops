@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Users
+END
+ScrGetUserInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Users/ScrGetUserInfo.java
+END
+GetIgnoredUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Users/GetIgnoredUsers.java
+END
+GetMOTD.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Users/GetMOTD.java
+END
+ApproveName.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Users/ApproveName.java
+END
+GetUserNotifications.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Users/GetUserNotifications.java
+END
+GetSelectedBadges.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Users/GetSelectedBadges.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Sound
+END
+GetUserSongDisks.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cappoemu/!svn/ver/41/trunk/cappoemu/src/Requests/Sound/GetUserSongDisks.java
+END
+SetSoundSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Sound/SetSoundSettings.java
+END
+RemoveJukeboxDisk.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Sound/RemoveJukeboxDisk.java
+END
+GetNowPlaying.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Sound/GetNowPlaying.java
+END
+GetSoundSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Sound/GetSoundSettings.java
+END
+GetSongInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Sound/GetSongInfo.java
+END
+GetJukeboxPlayList.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Sound/GetJukeboxPlayList.java
+END
+AddJukeboxDisk.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Sound/AddJukeboxDisk.java
+END

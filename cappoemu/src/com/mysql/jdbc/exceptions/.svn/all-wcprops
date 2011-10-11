@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/exceptions
+END
+MySQLTransientException.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/exceptions/MySQLTransientException.class
+END
+MySQLTransientConnectionException.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/exceptions/MySQLTransientConnectionException.class
+END
+MySQLStatementCancelledException.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/exceptions/MySQLStatementCancelledException.class
+END
+MySQLSyntaxErrorException.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/exceptions/MySQLSyntaxErrorException.class
+END
+MySQLTransactionRollbackException.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/exceptions/MySQLTransactionRollbackException.class
+END
+MySQLTimeoutException.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/exceptions/MySQLTimeoutException.class
+END
+MySQLInvalidAuthorizationSpecException.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/exceptions/MySQLInvalidAuthorizationSpecException.class
+END
+MySQLNonTransientException.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/exceptions/MySQLNonTransientException.class
+END
+DeadlockTimeoutRollbackMarker.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/exceptions/DeadlockTimeoutRollbackMarker.class
+END
+MySQLIntegrityConstraintViolationException.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/exceptions/MySQLIntegrityConstraintViolationException.class
+END
+MySQLNonTransientConnectionException.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/exceptions/MySQLNonTransientConnectionException.class
+END
+MySQLDataException.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/exceptions/MySQLDataException.class
+END

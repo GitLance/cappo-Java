@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Staff
+END
+RoomTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Staff/RoomTools.java
+END
+SendMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Staff/SendMessage.java
+END
+PickRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Staff/PickRoom.java
+END
+BanUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Staff/BanUser.java
+END
+UserInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Staff/UserInfo.java
+END
+ModKick.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Staff/ModKick.java
+END
+SendCaution.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Staff/SendCaution.java
+END

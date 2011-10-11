@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/util
+END
+BaseBugReport.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/util/BaseBugReport.class
+END
+ResultSetUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/util/ResultSetUtil.class
+END
+ErrorMappingsDocGenerator.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/util/ErrorMappingsDocGenerator.class
+END
+TimezoneDump.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/util/TimezoneDump.class
+END
+PropertiesDocGenerator.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/util/PropertiesDocGenerator.class
+END
+ReadAheadInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/util/ReadAheadInputStream.class
+END
+ServerController.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/util/ServerController.class
+END
+LRUCache.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/util/LRUCache.class
+END
+VersionFSHierarchyMaker.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/util/VersionFSHierarchyMaker.class
+END

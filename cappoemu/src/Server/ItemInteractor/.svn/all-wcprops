@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cappoemu/!svn/ver/42/trunk/cappoemu/src/Server/ItemInteractor
+END
+InteractorNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cappoemu/!svn/ver/35/trunk/cappoemu/src/Server/ItemInteractor/InteractorNull.java
+END
+InteractorTrax.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cappoemu/!svn/ver/42/trunk/cappoemu/src/Server/ItemInteractor/InteractorTrax.java
+END
+InteractorBBTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cappoemu/!svn/ver/35/trunk/cappoemu/src/Server/ItemInteractor/InteractorBBTimer.java
+END
+InteractorWiredFurnis.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cappoemu/!svn/ver/41/trunk/cappoemu/src/Server/ItemInteractor/InteractorWiredFurnis.java
+END
+Interactor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cappoemu/!svn/ver/41/trunk/cappoemu/src/Server/ItemInteractor/Interactor.java
+END
+InteractorTeleport.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cappoemu/!svn/ver/35/trunk/cappoemu/src/Server/ItemInteractor/InteractorTeleport.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Recycler
+END
+RecycleItems.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Recycler/RecycleItems.java
+END
+GetRecyclerStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Recycler/GetRecyclerStatus.java
+END
+GetRecyclerPrizes.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Recycler/GetRecyclerPrizes.java
+END

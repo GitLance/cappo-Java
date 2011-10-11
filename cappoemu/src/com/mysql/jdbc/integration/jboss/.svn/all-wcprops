@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/integration/jboss
+END
+MysqlValidConnectionChecker.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/integration/jboss/MysqlValidConnectionChecker.class
+END
+ExtendedMysqlExceptionSorter.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/integration/jboss/ExtendedMysqlExceptionSorter.class
+END

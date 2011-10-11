@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/cappoemu/!svn/ver/57/trunk/cappoemu/src/Server
+END
+BotAI.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cappoemu/!svn/ver/32/trunk/cappoemu/src/Server/BotAI.java
+END
+WiredManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cappoemu/!svn/ver/41/trunk/cappoemu/src/Server/WiredManager.java
+END
+Mus.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cappoemu/!svn/ver/50/trunk/cappoemu/src/Server/Mus.java
+END
+ServerTasks.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cappoemu/!svn/ver/52/trunk/cappoemu/src/Server/ServerTasks.java
+END
+AvatarEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cappoemu/!svn/ver/32/trunk/cappoemu/src/Server/AvatarEffect.java
+END
+TraxDisc.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cappoemu/!svn/ver/42/trunk/cappoemu/src/Server/TraxDisc.java
+END
+MoodlightData.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cappoemu/!svn/ver/35/trunk/cappoemu/src/Server/MoodlightData.java
+END
+Clients.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cappoemu/!svn/ver/37/trunk/cappoemu/src/Server/Clients.java
+END
+Teleports.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cappoemu/!svn/ver/32/trunk/cappoemu/src/Server/Teleports.java
+END
+PetBot.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cappoemu/!svn/ver/32/trunk/cappoemu/src/Server/PetBot.java
+END
+TraxPlaylist.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cappoemu/!svn/ver/41/trunk/cappoemu/src/Server/TraxPlaylist.java
+END
+BannerGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cappoemu/!svn/ver/32/trunk/cappoemu/src/Server/BannerGenerator.java
+END
+DatabaseClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cappoemu/!svn/ver/32/trunk/cappoemu/src/Server/DatabaseClient.java
+END
+Trade.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cappoemu/!svn/ver/41/trunk/cappoemu/src/Server/Trade.java
+END
+ServerMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cappoemu/!svn/ver/56/trunk/cappoemu/src/Server/ServerMessage.java
+END
+Badge.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cappoemu/!svn/ver/32/trunk/cappoemu/src/Server/Badge.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cappoemu/!svn/ver/56/trunk/cappoemu/src/Server/Server.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cappoemu/!svn/ver/37/trunk/cappoemu/src/Server/Player.java
+END
+Pet.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cappoemu/!svn/ver/41/trunk/cappoemu/src/Server/Pet.java
+END
+Rotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cappoemu/!svn/ver/32/trunk/cappoemu/src/Server/Rotation.java
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cappoemu/!svn/ver/56/trunk/cappoemu/src/Server/Connection.java
+END
+UserItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cappoemu/!svn/ver/32/trunk/cappoemu/src/Server/UserItem.java
+END
+Subscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cappoemu/!svn/ver/32/trunk/cappoemu/src/Server/Subscription.java
+END
+Issues.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cappoemu/!svn/ver/35/trunk/cappoemu/src/Server/Issues.java
+END
+Catalog.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cappoemu/!svn/ver/55/trunk/cappoemu/src/Server/Catalog.java
+END
+Trax.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cappoemu/!svn/ver/42/trunk/cappoemu/src/Server/Trax.java
+END
+NavigatorCategories.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cappoemu/!svn/ver/32/trunk/cappoemu/src/Server/NavigatorCategories.java
+END
+Furniture.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cappoemu/!svn/ver/32/trunk/cappoemu/src/Server/Furniture.java
+END

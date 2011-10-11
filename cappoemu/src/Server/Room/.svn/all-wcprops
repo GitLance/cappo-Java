@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/cappoemu/!svn/ver/57/trunk/cappoemu/src/Server/Room
+END
+RoomEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cappoemu/!svn/ver/32/trunk/cappoemu/src/Server/Room/RoomEvent.java
+END
+RoomItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cappoemu/!svn/ver/41/trunk/cappoemu/src/Server/Room/RoomItem.java
+END
+RoomModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cappoemu/!svn/ver/32/trunk/cappoemu/src/Server/Room/RoomModel.java
+END
+RoomBot.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cappoemu/!svn/ver/32/trunk/cappoemu/src/Server/Room/RoomBot.java
+END
+Room.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cappoemu/!svn/ver/57/trunk/cappoemu/src/Server/Room/Room.java
+END
+RoomListing.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cappoemu/!svn/ver/42/trunk/cappoemu/src/Server/Room/RoomListing.java
+END
+RoomUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cappoemu/!svn/ver/41/trunk/cappoemu/src/Server/Room/RoomUser.java
+END
+Coord.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cappoemu/!svn/ver/32/trunk/cappoemu/src/Server/Room/Coord.java
+END
+RoomIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cappoemu/!svn/ver/32/trunk/cappoemu/src/Server/Room/RoomIcon.java
+END
+RoomManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cappoemu/!svn/ver/41/trunk/cappoemu/src/Server/Room/RoomManager.java
+END

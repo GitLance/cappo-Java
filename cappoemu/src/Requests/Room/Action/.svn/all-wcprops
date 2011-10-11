@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Room/Action
+END
+LetUserIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Room/Action/LetUserIn.java
+END
+RemoveRights.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Room/Action/RemoveRights.java
+END
+BanUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cappoemu/!svn/ver/35/trunk/cappoemu/src/Requests/Room/Action/BanUser.java
+END
+CallGuideBot.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cappoemu/!svn/ver/35/trunk/cappoemu/src/Requests/Room/Action/CallGuideBot.java
+END
+AssignRights.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Room/Action/AssignRights.java
+END
+RemoveAllRights.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Room/Action/RemoveAllRights.java
+END
+KickUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cappoemu/!svn/ver/44/trunk/cappoemu/src/Requests/Room/Action/KickUser.java
+END
+KickBot.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cappoemu/!svn/ver/23/trunk/cappoemu/src/Requests/Room/Action/KickBot.java
+END

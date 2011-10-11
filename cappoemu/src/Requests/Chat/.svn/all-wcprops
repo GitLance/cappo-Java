@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Chat
+END
+TalkShout.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Chat/TalkShout.java
+END
+Talk.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Chat/Talk.java
+END
+TypingStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Chat/TypingStart.java
+END
+TypingStop.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Chat/TypingStop.java
+END
+TalkWhisper.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Chat/TalkWhisper.java
+END

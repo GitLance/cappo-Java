@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Inventory/Badges
+END
+SetActivatedBadges.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Inventory/Badges/SetActivatedBadges.java
+END
+GetBadgePointLimits.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Inventory/Badges/GetBadgePointLimits.java
+END
+GetBadges.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Inventory/Badges/GetBadges.java
+END

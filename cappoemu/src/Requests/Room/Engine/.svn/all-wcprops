@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cappoemu/!svn/ver/55/trunk/cappoemu/src/Requests/Room/Engine
+END
+RemovePetFromFlat.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Room/Engine/RemovePetFromFlat.java
+END
+UseFurniture.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Room/Engine/UseFurniture.java
+END
+GetRoomEntryData.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cappoemu/!svn/ver/55/trunk/cappoemu/src/Requests/Room/Engine/GetRoomEntryData.java
+END
+PlacePet.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Room/Engine/PlacePet.java
+END
+SetClothingChangeData.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Room/Engine/SetClothingChangeData.java
+END
+UseWallItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Room/Engine/UseWallItem.java
+END
+GetPetCommands.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Room/Engine/GetPetCommands.java
+END

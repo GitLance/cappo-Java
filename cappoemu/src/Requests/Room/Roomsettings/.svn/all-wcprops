@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Room/Roomsettings
+END
+SaveRoomSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Room/Roomsettings/SaveRoomSettings.java
+END
+DeleteRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Room/Roomsettings/DeleteRoom.java
+END
+GetRoomSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cappoemu/!svn/ver/43/trunk/cappoemu/src/Requests/Room/Roomsettings/GetRoomSettings.java
+END

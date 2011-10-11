@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/configs
+END
+maxPerformance.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/configs/maxPerformance.properties
+END
+clusterBase.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/configs/clusterBase.properties
+END
+3-0-Compat.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/configs/3-0-Compat.properties
+END
+coldFusion.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/configs/coldFusion.properties
+END
+solarisMaxPerformance.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/configs/solarisMaxPerformance.properties
+END
+5-0-Compat.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/configs/5-0-Compat.properties
+END
+fullDebug.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/configs/fullDebug.properties
+END

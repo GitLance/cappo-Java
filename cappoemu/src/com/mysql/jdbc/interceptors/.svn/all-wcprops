@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/interceptors
+END
+ResultSetScannerInterceptor$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/interceptors/ResultSetScannerInterceptor$1.class
+END
+SessionAssociationInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/interceptors/SessionAssociationInterceptor.class
+END
+ServerStatusDiffInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/interceptors/ServerStatusDiffInterceptor.class
+END
+ResultSetScannerInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cappoemu/!svn/ver/3/trunk/cappoemu/src/com/mysql/jdbc/interceptors/ResultSetScannerInterceptor.class
+END
